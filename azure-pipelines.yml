@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: onpremises
+  name: NEL004
 
 steps:
 - task: NodeTool@0
